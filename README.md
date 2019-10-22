@@ -8,6 +8,7 @@
 * kohakoha_beam.unitypackage
   * こはこはパーティクルをビームにしました．接触判定がついており，coliderにぶつかるとこはこはパーティクルを放出します．
   * 同梱してあるcubeで挙動を確認してください
+  ![image](https://user-images.githubusercontent.com/46277931/67316982-5c803c80-f544-11e9-90d6-eba6a591a853.png)
 
 ## 権利関係
 * フォント
